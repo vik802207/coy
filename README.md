@@ -19,6 +19,20 @@
    - [Running the App Locally](#running-the-app-locally)
 
 ---
+## Screenshots
+
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(79).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(80).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(81).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(82).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(83).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(84).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(85).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(86).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(87).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(88).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(89).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(90).png
 
 ## Part A: Product Experience & Core Feature Proposals
 
