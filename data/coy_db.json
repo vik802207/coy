@@ -609,6 +609,14 @@
       "hasLikedCurrentUser": true
     }
   ],
-  "swipes": {},
+  "swipes": {
+    "prof_1": {
+      "id": "swipe_1794921220477_atsnv",
+      "profileId": "prof_1",
+      "direction": "pass",
+      "timestamp": "2026-11-17T13:13:40.477Z",
+      "isMatch": false
+    }
+  },
   "matches": []
 }
