@@ -13,6 +13,10 @@
 # production
 /build
 
+# temporary db dumps
+data/*.tmp*
+data/*.tmp
+
 # misc
 .DS_Store
 *.pem
