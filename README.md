@@ -2,6 +2,43 @@
 
 > **SDE Intern Assignment Submission for Coy ([app.getcoy.com](https://app.getcoy.com))**  
 > Built with Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion, and automated Vitest test suite.
+---
+
+# 🎯 Coy — Discover & Double-Blind Matching
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Project-00C7B7?style=for-the-badge" alt="Live Demo">
+  <a href="https://eclectic-fox-4269c3.netlify.app/">
+    <img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  </a>
+</p>
+
+<p align="center">
+  <b>Discover people. Connect anonymously. Match intelligently.</b>
+</p>
+
+<p align="center">
+  <a href="https://eclectic-fox-4269c3.netlify.app/">
+    🌐 **View Live Website**
+  </a>
+</p>
+
+---
+
+## Screenshots
+
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(79).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(80).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(81).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(82).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(83).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(84).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(85).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(86).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(87).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(88).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(89).png)
+![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(90).png)
 
 ---
 
@@ -19,20 +56,6 @@
    - [Running the App Locally](#running-the-app-locally)
 
 ---
-## Screenshots
-
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(79).png)
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(80).png)
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(81).png)
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(82).png)
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(83).png)
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(84).png)
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(85).png)
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(86).png)
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(87).png)
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(88).png)
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(89).png)
-![Home Page](https://github.com/vik802207/coy/blob/main/img/Screenshot%20(90).png
 
 ## Part A: Product Experience & Core Feature Proposals
 
